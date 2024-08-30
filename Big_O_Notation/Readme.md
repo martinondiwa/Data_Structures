@@ -1,0 +1,3 @@
+Big-O, commonly referred to as “Order of”, is a way to express the upper bound of an algorithm’s time complexity, since it analyses the worst-case situation of algorithm. It provides an upper limit on the time taken by an algorithm in terms of the size of the input. It’s denoted as O(f(n)), where f(n) is a function that represents the number of operations (steps) that an algorithm performs to solve a problem of size n.
+
+Big-O notation is used to describe the performance or complexity of an algorithm. Specifically, it describes the worst-case scenario in terms of time or space complexity.
