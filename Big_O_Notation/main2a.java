@@ -4,6 +4,9 @@ public interface main2a {
         //0(n)
         for (int number: numbers) // 0(n)
             System.out.println(number);
+        for (int number : numbers) // 0(n)
+        System.out.println(number);
+             
 
     }
 }
